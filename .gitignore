@@ -1,0 +1,4 @@
+# Project exclude paths
+/lection_code/
+/venv/
+.idea
